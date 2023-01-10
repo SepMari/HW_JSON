@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/HW_JSON.iml
+/.idea/
